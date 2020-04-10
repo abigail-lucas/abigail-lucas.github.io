@@ -6,7 +6,7 @@ filename: index.md
 
 # Abigail Lucas Portfolio
 
-This is my online portfolio for showcasing my skillset and abilities. I included a portfolio section for covering information about myself, my skills, and my job history. I also included an index to my github repos for convenience sake when viewing this portfolio.
+This is my online portfolio for showcasing my skillset and abilities. I included a [portfolio](#portfolio) section for covering information about myself, my skills, and my job history. I also included an index to my [github repos](#github-repos) for convenience sake when viewing this portfolio.
 
 ## Portfolio
 

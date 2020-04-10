@@ -8,6 +8,10 @@ This purpose of this repo is to keep an index to my github repos that includes p
 
 The main purpose is to use this as an online portfolio to list my skills and even work history.
 
+## Branches
+
+[index](https://github.com/abigail-lucas/abigail-lucas.github.io/tree/index) | Used to store changes to the index file
+
 ### TODO:
 
 - Add my own custom theme
