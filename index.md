@@ -1,6 +1,7 @@
 ---
 title: Abigail Lucas Portfolio
 layout: template
+theme: jekyll-theme-midnight
 filename: index.md
 --- 
 
