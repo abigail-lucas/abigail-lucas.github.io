@@ -8,24 +8,9 @@ This purpose of this repo is to keep an index to my github repos that includes p
 
 The main purpose is to use this as an online portfolio to list my skills and even work history.
 
-## Markdown Reference
+### TODO:
 
-This is simply for me to use as reference for markdown.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+- Add my own custom theme
+- Add portfolio page(s)
+- Add Project Euler page
+- Add custom list page

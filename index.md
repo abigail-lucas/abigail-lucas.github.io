@@ -14,6 +14,13 @@ This is the index of my github repos listed as private and public. If you are a 
 
 ### Private
 
-[Project Euler Repo](https://github.com/abigail-lucas/project-euler-cpp)
-[Project Euler Description](project-euler.html)
+[Project Euler](project-euler.html)
+
+
+### Public
+
+[List repo](https://github.com/abigail-lucas/list-cpp)
+
+[List description](list.html)
+
 
