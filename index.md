@@ -2,7 +2,7 @@
 title: Abigail Lucas Portfolio
 theme: default
 filename: index.md
---- 
+---
 
 # Abigail Lucas Portfolio
 
@@ -54,11 +54,11 @@ This is the index of my github repos listed as private and public. If you are a 
 
 These repos have been made private for a various reasons, described on their pages.
 
-[Project Euler](project-euler.html) | [Project Euler Repo](https://github.com/abigail-lucas/project-euler-cpp)
+[Project Euler](project-euler.html) / [Project Euler Repo](https://github.com/abigail-lucas/project-euler-cpp)
 
 
 ### Public
 
 These are all public repos for showcasing my skills and storing my work.
 
-[List](list.html) | [List repo](https://github.com/abigail-lucas/list-cpp)
+[List](list.html) / [List repo](https://github.com/abigail-lucas/list-cpp)
